@@ -42,7 +42,7 @@ In daily life, we often require a simple way to set alarms without depending on 
 - **Python 3.x**  
 - `datetime` module  
 - `time` module  
-- `pyttsx3` (Text-to-Speech engine)
+- `pyttsx3` (Text-to-Speech engine) module
 
 ---
 

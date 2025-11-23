@@ -6,7 +6,7 @@ A simple Python alarm clock project using datetime, time, and pyttsx3 for voice 
 **Reg. No:** 25MEI10042
 **Institute:** VIT Bhopal  
 **Course:** Python Essentials  
-**Faculty:** Sandip Mal  
+**Faculty:** Mr Sandip Mal  
 
 ---
 

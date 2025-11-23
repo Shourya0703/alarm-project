@@ -3,7 +3,7 @@
 ### Submitted by: Shourya Singh  
 ### Institute: VIT Bhopal  
 ### Course: Python Essentials  
-### Faculty: Sandip Mal  
+
 
 ---
 

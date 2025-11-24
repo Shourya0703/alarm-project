@@ -51,6 +51,16 @@ The project demonstrates the use of:
    ```bash
    pip install pyttsx3
 
+---
+
+##Screenshot
+
+- <img width="478" height="274" alt="Screenshot 2025-11-23 163505" src="https://github.com/user-attachments/assets/15695ffb-b2c9-4240-baf3-ae8cf0dedf3f" />
+
+- <img width="459" height="97" alt="Screenshot 2025-11-23 163517" src="https://github.com/user-attachments/assets/e21ce02c-b282-48e8-a0c9-ad7d704e955e" />
+
+
+
 
 
 

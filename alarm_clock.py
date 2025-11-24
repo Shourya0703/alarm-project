@@ -5,7 +5,7 @@
 import datetime
 import time
 import pyttsx3
-#Made a small function judt for speaking the alarm message
+#Made a small function just for speaking the alarm message
 def speak(text):
     engine = pyttsx3.init()  # Had to re- init the engine every time because otherwise pyttxs3 only talks once
     engine.say(text)
@@ -144,6 +144,7 @@ User           System           pyttsx3
 +------------------------+
 
 '''
+
 
 
 

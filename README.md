@@ -2,11 +2,11 @@
 A simple Python alarm clock project using datetime, time, and pyttsx3 for voice alert.
 
 # Python Alarm Clock 🕒  
-**Submitted by:** Shourya Singh  
-**Reg. No:** 25MEI10042
-**Institute:** VIT Bhopal  
-**Course:** Python Essentials  
-**Faculty:** Mr Sandip Mal  
+- **Submitted by:** Shourya Singh  
+- **Reg.No:** 25MEI10042
+- **Institute:** VIT Bhopal  
+- **Course:** Python Essentials  
+- **Faculty:** Mr Sandip Mal  
 
 ---
 

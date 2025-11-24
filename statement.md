@@ -8,7 +8,7 @@
 ---
 
 ## 📝 1. Introduction  
-This project is a simple and functional **Python-based Alarm Clock** designed to allow users to set a specific time for an audio alert. It uses Python’s built-in `datetime` and `time` modules to continuously monitor system time and the `pyttsx3` text-to-speech library to generate a spoken alarm notification.
+This project is a simple and functional **Python-based Alarm Clock** designed to allow users to set a specific time for an audio alert. It uses Python’s built-in 'datetime' and 'time' modules to continuously monitor system time and the `pyttsx3` text-to-speech library to generate a spoken alarm notification.
 
 ---
 
